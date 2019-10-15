@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Royal-Blue-1-hex { color: #021032; }
+.Royal-Blue-2-hex { color: #063CBF; }
+.Royal-Blue-3-hex { color: #0850FF; }
+.Royal-Blue-4-hex { color: #021440; }
+.Royal-Blue-5-hex { color: #0748E5; }
+
+/* Color Theme Swatches in RGBA */
+.Royal-Blue-1-rgba { color: rgba(2, 16, 49, 1); }
+.Royal-Blue-2-rgba { color: rgba(5, 59, 191, 1); }
+.Royal-Blue-3-rgba { color: rgba(8, 80, 255, 1); }
+.Royal-Blue-4-rgba { color: rgba(2, 20, 63, 1); }
+.Royal-Blue-5-rgba { color: rgba(7, 72, 228, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Royal-Blue-1-hsla { color: hsla(222, 92, 10, 1); }
+.Royal-Blue-2-hsla { color: hsla(222, 93, 38, 1); }
+.Royal-Blue-3-hsla { color: hsla(222, 100, 51, 1); }
+.Royal-Blue-4-hsla { color: hsla(222, 93, 12, 1); }
+.Royal-Blue-5-hsla { color: hsla(222, 94, 46, 1); }
