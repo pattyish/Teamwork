@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="styles.css" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="script.js"></script>
+    
     <title>Team Work</title>
 </head>
 <body>
@@ -90,7 +90,9 @@
                         
                         <div class="deleteArticle">
                                 <ul>
-                                    <li><a href="#">EDIT ARTICLE<span></span></a></li>
+                                    <li><a href="#" id="">EDIT ARTICLE<span></span></a></li>
+                                    <li><!-- Trigger/Open The Modal -->
+                                        <button id="myBtn">Open Modal</button></li>
                                 </ul>  
                         </div>
                         
@@ -196,9 +198,30 @@
          </div>
      </div>
     </div>
+    <!-- The Modal -->
+<div id="myModal" class="modal">
+
+    <!-- Modal content -->
+    <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">×</span>
+        <h2>Modal Header</h2>
+      </div>
+      <div class="modal-body">
+        <p>Some text in the Modal Body</p>
+        <p>Some other text...</p>
+      </div>
+      <div class="modal-footer">
+        <h3>Modal Footer</h3>
+      </div>
+    </div>
+  
+  </div>
+  
     <!-- footer part -->
    <div class="footer">
 
    </div>
+   <script src="script.js"></script>
 </body>
 </html>
